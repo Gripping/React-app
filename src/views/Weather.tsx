@@ -1,4 +1,4 @@
-import { useEffect, useCallback, useState } from 'react'
+import { useEffect, useState } from 'react'
 import '../assets/style/app.scss'
 import geolocation from '../models/geolocation';
 import { CurrentWeather } from '../models/weather';
